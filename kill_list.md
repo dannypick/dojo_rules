@@ -7,4 +7,4 @@ Kill List
 * Bad variable names
 * Excessive use of global variables
 * Super long functions
-Added new line for testing
+* Added new line for testing
