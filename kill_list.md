@@ -6,5 +6,5 @@ Kill List
 * Repeated code blocks
 * Bad variable names
 * Excessive use of global variables
-* Long functions
+* Super long functions
 Added new line for testing
